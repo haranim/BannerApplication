@@ -1,0 +1,52 @@
+
+.showSlide
+{
+    opacity: 1;
+    z-index: 2;
+}
+.hideSlide
+{
+    opacity: 0;
+    z-index: 1;
+}
+
+#slides 
+{
+
+    list-style-type: none;
+}
+#banner_container
+{
+    position: absolute;
+    left: 400px;
+    top: 200px;
+
+    &:hover{
+        cursor:pointer;
+  }
+
+    #slides li{
+        position: absolute;
+        -webkit-transition: opacity 1s;
+        -moz-transition: opacity 1s;
+        -o-transition: opacity 1s;
+        transition: opacity 1s;
+   }
+}
+
+#bannerSize
+{
+    width: 640px;
+    height: 360px;
+}
+
+#slides li img
+{
+  #bannerSize 
+}
+
+#slides li video
+{
+  #bannerSize 
+}
+
