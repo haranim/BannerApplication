@@ -19,7 +19,7 @@ Run `ng serve --open` to run the application on browser. The app will automatica
 
 ## Code analyser : TSLint
 
-Run `tslint -c tslint.json 'src/app/*.ts` to check Lint rules and code format errors
+Run `tslint -c tslint.json 'src/app/*.ts` to check Lint rules and code format errors via [TSLint](https://palantir.github.io/tslint/).
 
 ## Running unit tests
 
