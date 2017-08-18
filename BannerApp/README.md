@@ -9,9 +9,13 @@ Verify that you are running at least node 6.9.x and npm 3.x.x or latest versions
 
 You can clone or download this application and then use the instructions below to run it and/or the tests to get a better sense of how it works.
 
+Main Project code is written in - BannerApp/ src/ app/ folder
+
 ## BannerApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.2.
+
+Run `npm install`  (in package directory, no arguments) to install the dependencies from in package.json
 
 ## Development server
 
