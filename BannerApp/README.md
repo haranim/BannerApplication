@@ -1,5 +1,7 @@
 This application is developed on NPM using Angular 4, Typescript, LESS Stylesheets
 
+## Requirement
+The web page shows a list of images and videos displayed in a slideshow without using an external plugin.
 
 ## Prerequisites to run the application: 
 
